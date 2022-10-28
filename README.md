@@ -5,9 +5,9 @@
 
 <p align="center"> <a href="https://twitter.com/nilamadhabsenap" target="blank"><img src="https://img.shields.io/twitter/follow/nilamadhabsenap?logo=twitter&style=for-the-badge" alt="nilamadhabsenap" /></a> </p>
 
-- 🔭 I’m currently working on [PizzaOnWheels](https://github.com/nilamadhab47/PizzaOnWheels)
+- 🔭 I’m currently working on [Candleriggs](https://github.com/nilamadhab47/PizzaOnWheels)
 
-- 🌱 I’m currently learning **Agile, JIRA , WordPress, Jest**
+- 🌱 I’m currently learning **Next Js, Three.js, DSA**
 
 - 🤝 I’m looking for help with [PizzaOnWheels](https://github.com/nilamadhab47/PizzaOnWheels)
 
