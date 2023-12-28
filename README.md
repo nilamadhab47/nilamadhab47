@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [www.linkedin.com/nilamadhab47](www.linkedin.com/nilamadhab47)
 
-- ⚡ Fun fact **I can drink a lot**
+- ⚡ Fun fact **I can code way better when I'm drunk**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
