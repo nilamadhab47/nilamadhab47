@@ -10,8 +10,8 @@
 - 🌱 I’m currently learning **Three Js , Golang , Web3**
 
 - 📝 I regularly write articles on [https://medium.com/@nilamadhab47](https://medium.com/@nilamadhab47)
-- 
-- 📝 Vist my portfolio [https://medium.com/@nilamadhab47](https://madhab-portfolio-website.vercel.app/)
+
+- 📝 Vist my portfolio [https://madhab-portfolio-website.vercel.app/](https://madhab-portfolio-website.vercel.app/)
 
 - 💬 Ask me about **react , Next js , MERN , ThreeJs , React Native , Performance Optimization, Legacy Code Upgrade**
 
