@@ -5,17 +5,19 @@
 
 <p align="left"> <a href="https://twitter.com/madhabcoder" target="blank"><img src="https://img.shields.io/twitter/follow/madhabcoder?logo=twitter&style=for-the-badge" alt="madhabcoder" /></a> </p>
 
-- 🔭 I’m currently working on **Web3 Chess Project**
+- 🔭 I’m currently working on **Custom Android OS**
 
 - 🌱 I’m currently learning **Three Js , Golang , Web3**
 
 - 📝 I regularly write articles on [https://medium.com/@nilamadhab47](https://medium.com/@nilamadhab47)
+- 
+- 📝 Vist my portfolio [[https://medium.com/@nilamadhab47](https://madhab-portfolio-website.vercel.app/)]
 
-- 💬 Ask me about **react , Next js , MERN**
+- 💬 Ask me about **react , Next js , MERN , ThreeJs , React Native , Performance Optimization, Legacy Code Upgrade**
 
 - 📫 How to reach me **nilamadhab47@gmail.com**
 
-- 📄 Know about my experiences [www.linkedin.com/nilamadhab47](www.linkedin.com/nilamadhab47)
+- 📄 Know about my experiences [www.linkedin.com/nilamadhabsenapati](www.linkedin.com/nilamadhabsenapati)
 
 - ⚡ Fun fact **I can code way better when I'm drunk**
 
