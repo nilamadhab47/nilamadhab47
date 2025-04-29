@@ -11,13 +11,13 @@
 
 - 📝 I regularly write articles on [https://medium.com/@nilamadhab47](https://medium.com/@nilamadhab47)
 
-- 📝 Vist my portfolio [https://madhab-portfolio-website.vercel.app/](https://madhab-portfolio-website.vercel.app/)
+- 📝 Vist my portfolio [https://madhab-portfolio-website.vercel.app/](https://www.nilamadhab-coder.site/)
 
-- 💬 Ask me about **react , Next js , MERN , ThreeJs , React Native , Performance Optimization, Legacy Code Upgrade , Backend , CLoud**
+- 💬 Ask me about **react , Next js , MERN ,NestJs, ThreeJs , React Native , Performance Optimization, Legacy Code Upgrade , Backend , Cloud, AWS**
 
 - 📫 How to reach me **nilamadhab47@gmail.com**
 
-- 📄 Know about my experiences [www.linkedin.com/nilamadhabsenapati](www.linkedin.com/nilamadhabsenapati)
+- 📄 Know about my experiences [www.linkedin.com/nilamadhabsenapati](www.linkedin.com/in/nilamadhabsenapati)
 
 - ⚡ Fun fact **I can code way better when I'm drunk**
 
