@@ -55,7 +55,7 @@ Currently, I’m working as a **Lead Engineer → Head of Engineering (hands-on 
 ## 🛠️ Tech Stack
 
 **Languages**  
-Golang · Node.js (NestJS) · Python · Java  
+Golang · Node.js (NestJS) · Python · Javascript 
 
 **Backend & Architecture**  
 Distributed Systems · Microservices · REST APIs · Zero-Downtime Deployments  
@@ -93,3 +93,17 @@ PostgreSQL · MongoDB · Redis
 ---
 
 > I enjoy solving hard backend and system design problems at scale.
+
+
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nilamadhab47&show_icons=true&hide_title=true&hide_border=true&count_private=true&theme=default" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nilamadhab47&layout=compact&hide_border=true&theme=default" />
+</p>
+
