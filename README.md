@@ -9,7 +9,7 @@
 
 ## 👨‍💻 About Me
 
-I’m a **Backend & Cloud Engineer (SDE-II)** with **3.5+ years of experience** designing and scaling **AWS-based distributed systems**.
+I’m a **Backend & Cloud Engineer (SDE-II)** with **4+ years of experience** designing and scaling **AWS-based distributed systems**.
 
 I’ve owned **end-to-end system design**, **zero-downtime migrations**, and backend platforms serving **200K+ users**, **20K–30K DAU**, and **large real-time device fleets (20K+ devices)**. I work primarily on **backend architecture, scalability, reliability**, and **production systems**.
 
